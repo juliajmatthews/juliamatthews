@@ -1,0 +1,63 @@
+h1{
+    color: #e8a06f;
+}
+.contact{
+    color: #e8a06f;
+    font-style: italic;
+}
+.contacttitle{
+    font-weight: bold;
+    font-size: larger;
+}
+img {
+    max-width:100%;
+    height:auto;
+}
+.link{
+    font-style: italic;
+    color: blue;
+}
+.excited{
+    font-weight: bold;
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.intro{
+    font-weight: bolder;
+    font-size: larger;
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+.body{
+    background-color: #fcf2e1;
+}
+.anchor{
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+.resumetitle{
+    text-decoration: underline;
+    color: #fca503;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+}
+.resumetext{
+    font-size: large;
+}
+.resumeskills{
+    text-align: left;
+}
+.important{
+    color: #fca503;
+}
